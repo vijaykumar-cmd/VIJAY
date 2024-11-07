@@ -1,0 +1,5 @@
+git config --global user.name "Vijay"
+git config --global user.email "vijayart2004@gmail.com"
+
+
+git clone "repository link"
